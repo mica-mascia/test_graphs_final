@@ -1,11 +1,5 @@
 <svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
 <circle cx="100" cy="100" r="100" fill="#404665"/>
 <circle cx="100" cy="100" r="42" fill="#47C1F5"/>
-<mask id="mask0_60_121" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="58" y="58" width="84" height="84">
-<circle cx="100" cy="100" r="42" fill="#47C1F5"/>
-</mask>
-<g mask="url(#mask0_60_121)">
-<rect x="4" y="126.014" width="152" height="59" transform="rotate(-56 4 126.014)" fill="white"/>
-</g>
 <circle cx="100" cy="100" r="6" fill="black"/>
 </svg>
